@@ -1,0 +1,14 @@
+..\output\iic.o: ..\App\iic\iic.c
+..\output\iic.o: ..\App\iic\iic.h
+..\output\iic.o: ..\App\delay\delay.h
+..\output\iic.o: ..\App\sys\sys.h
+..\output\iic.o: ..\CMSIS\stm32f10x.h
+..\output\iic.o: ..\CMSIS\core_cm3.h
+..\output\iic.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\iic.o: ..\CMSIS\system_stm32f10x.h
+..\output\iic.o: ..\USER\stm32f10x_conf.h
+..\output\iic.o: ..\FWlib\inc\stm32f10x_gpio.h
+..\output\iic.o: ..\CMSIS\stm32f10x.h
+..\output\iic.o: ..\FWlib\inc\stm32f10x_rcc.h
+..\output\iic.o: ..\FWlib\inc\stm32f10x_usart.h
+..\output\iic.o: ..\FWlib\inc\misc.h
